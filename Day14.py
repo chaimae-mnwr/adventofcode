@@ -18,3 +18,6 @@ for line in fichier:
         vals[i].append((int(adress), int(line_split[2])))
 print(masks)
 print(vals)
+
+pass
+pass
